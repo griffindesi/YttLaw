@@ -136,7 +136,7 @@
 					<div class="logo">
 						<a href="/">
 
-							<img src="assets/images/logo.png" alt="Ytt Law">
+							<img src="assets/images/logo.png" alt="YT Law">
 
 						</a>
 					</div>
@@ -156,158 +156,48 @@
 						<nav s>
 							<ul class="menu main-menu">
 								<li class="menu-item current-menu-parent menu-item-has-children">
-									<a href="index.html">Home</a>
+									<a href="#">Principles</a>
 									<ul class="menu sub-menu">
 										<li class="menu-item current-menu-item">
-											<a href="index.html">Home Extended Lawbureau</a>
+											<a href="/Attorney_Mert_Yalçın">Attorney Mert Yalçın</a>
 										</li>
 										<li class="menu-item ">
-											<a href="home-2.html">Home Classic Lawbureau</a>
+											<a href="/Attorney_Kortan_Toygar">Attorney Kortan Toygar</a>
 										</li>
 										<li class="menu-item ">
-											<a href="home-3.html">Home Minimal Lawbureau</a>
+											<a href="/Attorney_Mert_Karayol">Attorney Mert Karayol</a>
 										</li>
 									</ul>
 								</li>
-								<li class="menu-item "><a href="/About_Us">About</a></li>
-								<li class="menu-item  ">
-									<a href="people.html">People</a>
-									<ul class="menu sub-menu">
-										<li class="menu-item ">
-											<a href="single-attorney-people.html">Single Lawyer</a>
-										</li>
-									</ul>
-								</li>
-								<li class="menu-item "><a href="news.html">News</a></li>
+								<li class="menu-item "><a href="/Our_Team">Our Team</a></li>
+								<li class="menu-item "><a href="/corporate-partners">Corporate Partners</a></li>
 
 								<li class="menu-item"><a href="#">Publications</a></li>
 
-								<li class="menu-item   menu-item-has-children mega-menu-wrapper">
-									<a href="practice-1.html">Expertise</a>
-									<div class="mega-sub-menu">
-										<div class="mega-sub-menu__section">
-											<h4 class="mega-sub-menu__title">Practice areas</h4>
-											<ul class="mega-sub-menu__list mega-sub-menu__list--two-cols">
-												<li class="mega-sub-menu__item "><a href="single-practice.html" class="mega-sub-menu__link">Banking & Finance</a></li>
-												<li class="mega-sub-menu__item"><a href="single-practice.html" class="mega-sub-menu__link">Corporate</a></li>
-												<li class="mega-sub-menu__item"><a href="single-practice.html" class="mega-sub-menu__link">Civil Litigation</a></li>
-												<li class="mega-sub-menu__item"><a href="single-practice.html" class="mega-sub-menu__link">Data Protection & Privacy</a></li>
-												<li class="mega-sub-menu__item"><a href="single-practice.html" class="mega-sub-menu__link">Insurance</a></li>
-												<li class="mega-sub-menu__item"><a href="single-practice.html" class="mega-sub-menu__link">Real Estate</a></li>
-											</ul>
-											<ul class="mega-sub-menu__list mega-sub-menu__list--two-cols">
-												<li class="mega-sub-menu__item"><a href="single-practice.html" class="mega-sub-menu__link">Tax, Employment, Pensions</a></li>
-												<li class="mega-sub-menu__item"><a href="single-practice.html" class="mega-sub-menu__link">Environment</a></li>
-												<li class="mega-sub-menu__item"><a href="single-practice.html" class="mega-sub-menu__link">Life Sciences & Healthcare</a></li>
-											</ul>
-										</div>
-										<div class="mega-sub-menu__section mega-sub-menu__section--separator">
-											<h4 class="mega-sub-menu__title">Sectors</h4>
-											<ul class="mega-sub-menu__list mega-sub-menu__list--two-cols">
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Aviations</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Energy</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Financial Institutions</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Professional Practices</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Industrial and Manufacturing</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Infrastructure and Transport</a></li>
-											</ul>
-											<ul class="mega-sub-menu__list mega-sub-menu__list--two-cols">
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Life Sciences & Healthcare</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Mining and Natural Resources</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Real Estate</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Insurance & Reinsurance</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Telecommunications</a></li>
-												<li class="mega-sub-menu__item"><a href="#" class="mega-sub-menu__link">Hotels and Leisure</a></li>
-											</ul>
-										</div>
-									</div>
-								</li>
-								<li class="menu-item   menu-item-has-children mega-menu-wrapper">
-									<a href="location.html">Locations</a>
-									<div class="mega-sub-menu">
-										<div class="mega-sub-menu__section mega-sub-menu__section--two-thirds">
-											<h4 class="mega-sub-menu__title">Location</h4>
-											<ul class="mega-sub-menu__list">
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Abu Dhabi</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Amsterdam</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Bangkok</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Barcelona</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Beijing</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Brussels</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Bucharest</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Casablanca</a></li>
-											</ul>
-											<ul class="mega-sub-menu__list">
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Doha</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Dubai</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Düsseldorf</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Frankfurt</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Hong Kong</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Istanbul</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Jakarta</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">London</a></li>
-											</ul>
-											<ul class="mega-sub-menu__list">
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Luxembourg</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Madrid</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Moscow</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Munich</a></li>
-												<li class="mega-sub-menu__item "><a href="single-location.html" class="mega-sub-menu__link">New York</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Paris</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Prague</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Rome</a></li>
-											</ul>
-											<ul class="mega-sub-menu__list">
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">São Paulo</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Seoul</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Shanghai</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Singapore</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Sydney</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Tokyo</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Warsaw</a></li>
-												<li class="mega-sub-menu__item"><a href="single-location.html" class="mega-sub-menu__link">Washington</a></li>
-											</ul>
-										</div>
-										<div class="mega-sub-menu__section mega-sub-menu__section--one-thirds">
-											<h4 class="mega-sub-menu__title">Map</h4>
-											<img src="assets/images/map-dark.jpg" alt="map" />
-										</div>
-									</div>
-								</li>
+
+
 								<li class="menu-item  ">
-									<a href="careers.html">Careers</a>
+									<a href="careers">Articles</a>
 									<ul class="menu sub-menu">
 										<li class="menu-item ">
-											<a href="single-vacancy.html">Single Vacancy</a>
+											<a href="single_vacancy">Family Law Articles</a>
+										</li>
+										<li class="menu-item ">
+											<a href="single_vacancy">Real Estate Law Articles</a>
+										</li>
+										<li class="menu-item ">
+											<a href="single_vacancy">Transportation Law Articles</a>
+										</li>
+										<li class="menu-item ">
+											<a href="single_vacancy">Company & Corporate Law Articles</a>
 										</li>
 									</ul>
 								</li>
-								<li class="menu-item  menu-item-has-children">
-									<a href="#">Pages</a>
-									<ul class="menu sub-menu">
-										<li class="menu-item ">
-											<a href="FAQ.html">FAQ</a>
-										</li>
-										<li class="menu-item ">
-											<a href="contact.html">Contact</a>
-										</li>
-										<li class="menu-item ">
-											<a href="gallery.html">Gallery</a>
-										</li>
-										<li class="menu-item ">
-											<a href="practice-1.html">Practice Areas 1</a>
-										</li>
-										<li class="menu-item ">
-											<a href="practice-2.html">Practice Areas 2</a>
-										</li>
-										<li class="menu-item ">
-											<a href="testimonials.html">Testimonials</a>
-										</li>
-										<li class="menu-item ">
-											<a href="elements.html">Elements</a>
-										</li>
-									</ul>
+								<li class="menu-item">
+									<a href="#">announcements</a>
 								</li>
+								<li class="menu-item "><a href="/About_Us">About Us</a></li>
+								<li class="menu-item "><a href="/About_Us">Contact Us</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -370,13 +260,13 @@
 				<section class="widget widget_pages">
 					<h3 class="widget-title">EXPLORE OUR SITE</h3>
 					<ul>
-						<li><a href="people.html">People</a></li>
-						<li><a href="about.html">About Us</a></li>
-						<li><a href="location.html">Locations</a></li>
-						<li><a href="careers.html">Careers</a></li>
+						<li><a href="people">People</a></li>
+						<li><a href="about">About Us</a></li>
+						<li><a href="location">Locations</a></li>
+						<li><a href="careers">Careers</a></li>
 						<li><a href="#">Publications</a></li>
-						<li><a href="news.html">News</a></li>
-						<li><a href="contact.html">Contact Us</a></li>
+						<li><a href="news">News</a></li>
+						<li><a href="contact">Contact Us</a></li>
 					</ul>
 				</section>
 			</div>
@@ -385,28 +275,28 @@
 					<h3 class="widget-title">PRACTICE AREAS</h3>
 					<ul>
 						<li class="cat-item">
-							<a href="single-practice.html">Banking & Finance</a>
+							<a href="single-practice">Banking & Finance</a>
 						</li>
 						<li class="cat-item">
-							<a href="single-practice.html">Corporate</a>
+							<a href="single-practice">Corporate</a>
 						</li>
 						<li class="cat-item">
-							<a href="single-practice.html">Civil Litigation</a>
+							<a href="single-practice">Civil Litigation</a>
 						</li>
 						<li class="cat-item">
-							<a href="single-practice.html">Data Protection & Privacy</a>
+							<a href="single-practice">Data Protection & Privacy</a>
 						</li>
 						<li class="cat-item">
-							<a href="single-practice.html">Insurance</a>
+							<a href="single-practice">Insurance</a>
 						</li>
 						<li class="cat-item">
-							<a href="single-practice.html">Real estate</a>
+							<a href="single-practice">Real estate</a>
 						</li>
 						<li class="cat-item">
-							<a href="single-practice.html">Tax, Employment, Pensions</a>
+							<a href="single-practice">Tax, Employment, Pensions</a>
 						</li>
 						<li class="cat-item">
-							<a href="single-practice.html">Environment</a>
+							<a href="single-practice">Environment</a>
 						</li>
 					</ul>
 				</section>
@@ -416,16 +306,16 @@
 					<h3 class="widget-title">RECENT POSTS</h3>
 					<ul>
 						<li>
-							<a class="widget__date" href="news.html">March 18, 2017</a>
-							<h4><a href="single_news.html">America's Best Corporate Law Firms</a></h4>
+							<a class="widget__date" href="news">March 18, 2017</a>
+							<h4><a href="single_news">America's Best Corporate Law Firms</a></h4>
 						</li>
 						<li>
-							<a class="widget__date" href="news.html">March 18, 2017</a>
-							<h4><a href="single_news.html">Managing tax risks in challenging times</a></h4>
+							<a class="widget__date" href="news">March 18, 2017</a>
+							<h4><a href="single_news">Managing tax risks in challenging times</a></h4>
 						</li>
 						<li>
-							<a class="widget__date" href="news.html">March 18, 2017</a>
-							<h4><a href="single_news.html">Top consumer law issues we were talking about in 2015</a></h4>
+							<a class="widget__date" href="news">March 18, 2017</a>
+							<h4><a href="single_news">Top consumer law issues we were talking about in 2015</a></h4>
 						</li>
 					</ul>
 				</section>
@@ -436,7 +326,7 @@
 				<div class="row align-justify align-middle logo-socials-footer small-collapse">
 					<div class="columns small-12 medium-expand">
 						<div class="logo">
-							<a href="index.html">
+							<a href="index">
 								<img src="assets/images/logo-footer.png" alt="Logo">
 							</a>
 						</div>
@@ -459,10 +349,10 @@
 			<div class="columns small-12">
 				<div class="row align-justify align-middle copyright small-collapse">
 					<div class="columns small-12 medium-expand">
-						Copyright © 2018. ThemeMakers. All rights reserved
+						Copyright © 2018. YT Law. All rights reserved
 					</div>
 					<div class="columns small-12 shrink">
-						Developed by <a href="../../themeforest.net/user/thememakers/portfolio.html">ThemeMakers</a>
+						<!-- Developed by <a href="#">ThemeMakers</a> -->
 					</div>
 				</div>
 			</div>
@@ -503,5 +393,5 @@
 </body>
 
 
-<!-- Mirrored from html.webtemplatemasters.com/lawyer/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Nov 2018 13:09:02 GMT -->
+<!-- Mirrored from html.webtemplatemasters.com/lawyer/index by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Nov 2018 13:09:02 GMT -->
 </html>

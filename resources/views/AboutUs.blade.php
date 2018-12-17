@@ -22,57 +22,27 @@
 </div>
 
 <!-- SERVICES -->
-<div class="row align-center grid" dir="rtl">
-  <div class="columns small-12 medium-6 large-4">
-    <div class="service-item">
-      <figure class="effect-apollo">
-        <img src="assets/images/service-item-thumb-6.jpg" alt="">
-        <div class="effect-apollo__overlay"></div>
-      </figure>
-      <h4 class="service-item__title"><a href="#">Principles & Values</a></h4>
-      <p class="service-item__content">Quisque consectetur lacinia posusa fermentum metus nibh, tincidunt luctus hendrerit, suspendise potent praesent sit amet rhoncus tristique velit felis ultrices pulvinar</p>
-    </div>
-  </div>
-  <div class="columns small-12 medium-6 large-4">
-    <div class="service-item">
-      <figure class="effect-apollo">
-        <img src="assets/images/service-item-thumb-5.jpg" alt="">
-        <div class="effect-apollo__overlay"></div>
-      </figure>
-      <h4 class="service-item__title"><a href="#">How We Are Different</a></h4>
-      <p class="service-item__content">Quisque consectetur lacinia posusa fermentum metus nibh, tincidunt luctus hendrerit, suspendise potent praesent sit amet rhoncus tristique velit felis ultrices pulvinar</p>
-    </div>
-  </div>
-  <div class="columns small-12 medium-6 large-4">
-    <div class="service-item">
-      <figure class="effect-apollo">
-        <img src="assets/images/service-item-thumb-7.jpg" alt="">
-        <div class="effect-apollo__overlay"></div>
-      </figure>
-      <h4 class="service-item__title"><a href="#">Global Coverage</a></h4>
-      <p class="service-item__content">Quisque consectetur lacinia posusa fermentum metus nibh, tincidunt luctus hendrerit, suspendise potent praesent sit amet rhoncus tristique velit felis ultrices pulvinar</p>
-    </div>
-  </div>
-</div>
+
 
 <!-- ABOUT US -->
-<div class="row-fluid about-article-fluid" dir="rtl">
+<div class="row-fluid about-article-fluid" dir="ltr">
   <div class="columns">
     <article class="row about-article">
       <div class="columns small-12 medium-6">
         <h2 class="about-article__title">Who We are & How We Work</h2>
-        <p>Nullam quis aliquet velit. Mauris lacus, pretium pharetra bibendum dapibus tincidunt nunc. Elementum euismod, facilisis quis dolor. Cum natoque penatibus et dis parturient montes, nascetur ridiculus mus. Nunc in risus in consectetur tincidunt at
-          quis ipsum. Duis pharetra volutpat vulputate. Mauris fringilla convallis dolor aliquet. Nullam vitae sem enim, a sodales velit. </p>
-        <section class="about-article__section">
-          <h4 class="about-article__section-title">Our History</h4>
-          <p>Praesent sit amet rhoncus nisi. Etiam tristique velit ut felis ultrices pulvinar, condimentum nec consectetur non, tincidunt malesuada lorem. Phasellus imperdiet risus eget augue fermentum pharetra. Curabitur magna lacus, viverra eu laoreet sed,
-            aliquet et orci. Mauris a varius dui. Nullam quis aliquet velit. Mauris elit lacus, pretium pharetra bibendum amet, dapibus tincidunt nunc. Donec blandit id elementum euismod, facilisis quis dolor.</p>
-          <p>Praesent sit amet rhoncus nisi. Etiam tristique velit ut felis ultrices pulvinar, condimentum nec consectetur non, tincidunt malesuada lorem. </p>
-        </section>
+        <div class="staticContent scid-125"><p style="text-align: justify;"><strong>Yalçın&amp;Toygar Law Office</strong> is a premier<strong> international law firm</strong>, located in <strong>Istanbul Turkey</strong>, dedicated to provide outstanding legal and consultancy services including <strong>international business law, company and corporate law, foreign investment law, maritime law, international arbitration law, mergers and acquisitions, international construction law, bankruptcy law, transportation law, energy law, banking and finance law</strong> and<strong> copyright law.</strong></p>
+<p style="text-align: justify;">Yalçın&amp;Toygar Law Office’s legal team consists of an outstanding group of Turkish, American, Arabic and Russian lawyers. All of the attorneys are fluent in English. Besides this, German, French, Spanish Italian, Arabic and Russian are represented. Our arbitration lawyer, mergers and acquisitions lawyer, construction lawyer, business lawyer, corporate lawyer and foreign investment lawyer team are praised constantly in the legal community.</p>
+Yalçın&amp;Toygar Law Office’s clients range from internationally renowned firms to small businesses and individual entrepreneurs. Orientated towards the philosophy of a personal service and a team approach, we are dedicated to resolve all aspects of our clients’ legal matters efficiently.
+
+Our breadth of knowledge and experience are supported by the effective use of technology, which allow us to offer convenient and practical service whenever it is needed.
+
+<em>YT Law Office is located at <strong>Kabatas, Istanbul Turkey</strong>. Call Us and get your consultation appointment today.</em>
+
+&nbsp;<div class="clear"></div></div>
       </div>
       <div class="columns small-12 medium-6 ">
         <div class="video-banner">
-          <img src="assets/images/about-video-bg.jpg" alt="" class="s-img-switch">
+          <img src="assets/images/1.png" alt="" class="s-img-switch">
           <button class="play-btn">
           <svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" class="play-btn__svg">
             <g transform="translate(2.000000, 2.000000)" fill="transparent">
@@ -83,7 +53,7 @@
         </button>
           <div class="video-popup">
             <span class="close-btn"></span>
-            <iframe width="1200" height="675" src="about:blank" data-src="https://www.youtube.com/embed/wJF5NXygL4k?rel=0&amp;autoplay=1&amp;controls=0&amp;loop=1&amp;showinfo=0"></iframe>
+            <iframe width="1200" height="675" src="about:blank" data-src="https://www.youtube.com/embed/aXusV3sW0Gw?rel=0&amp;autoplay=1&amp;controls=0&amp;loop=1&amp;showinfo=0"></iframe>
           </div>
         </div>
       </div>
@@ -194,7 +164,7 @@
 <section class="honors-awards honors-awards--about">
   <div class="row">
     <div class="columns">
-      <h5 class="honors-awards__title block-title--center">HONORS AND AWARDS</h5>
+      <h5 class="honors-awards__title block-title--center">Corporate Partners</h5>
     </div>
   </div>
   <div class="row">
@@ -203,27 +173,27 @@
         <div class="swiper-wrapper">
 
           <div class="swiper-slide client-item">
-            <img src="assets/images/client-1.png" alt="">
+            <img src="assets/images/aija_globe_tagline.gif" alt="">
           </div>
 
           <div class="swiper-slide client-item">
-            <img src="assets/images/client-2.png" alt="">
+            <img src="assets/images/2.gif" alt="">
           </div>
 
           <div class="swiper-slide client-item">
-            <img src="assets/images/client-3.png" alt="">
+            <img src="assets/images/slogo.png" alt="">
           </div>
 
           <div class="swiper-slide client-item">
-            <img src="assets/images/client-4.png" alt="">
+            <img src="assets/images/ilogo.jpg" alt="">
           </div>
 
           <div class="swiper-slide client-item">
-            <img src="assets/images/client-5.png" alt="">
+            <img src="assets/images/tlogo.png" alt="">
           </div>
 
           <div class="swiper-slide client-item">
-            <img src="assets/images/client-6.png" alt="">
+            <img src="assets/images/500logo.jpeg" alt="">
           </div>
 
           <div class="swiper-slide client-item">
